@@ -6,10 +6,10 @@ title: Karl Broman
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">linkedin</a></li>
+          <li><a href="https://docs.wixstatic.com/ugd/3d6d50_120f738d5050475cb8688f2965ff6fc7.pdf">cv</a></li>
+          <li><a href="https://github.com/amalaq">github</a></li>
+          <li><a href="www.amalqahtani.com">blog</a></li>
+          <li><a href="https://www.linkedin.com/in/amal-alqahtani-307906132//">linkedin</a></li>
       </ul>
   </div>
 </div>
