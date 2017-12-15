@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+description: Amal AlQahtani is a Graduate Student at The George Washington University. 
+keywords: NLP, data analytics
 ---
 
 <div class="navbar">
